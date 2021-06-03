@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of the agreement made between John Backwell esq; and Richard Backwell gent. and the creditors of Edward Backwell, their father, deceased.</title>
+            <author>Backwell, John.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17395</idno><idno type="EEBO-CITATION">99886125</idno>
+  <idno type="VID">186010</idno>
+  <idno type="EEBO-PROQUEST">2240895232</idno>
+  
+            <idno type="STC">Wing B266</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.100*[41]</idno>
+            <idno type="STC">ESTC R225489</idno>
+            <idno type="PROQUEST">ocm99886125</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886125e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17395)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186010)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:2[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of the agreement made between John Backwell esq; and Richard Backwell gent. and the creditors of Edward Backwell, their father, deceased.</title>
+                  <author>Backwell, John.</author>
+                  <author>Backwell, Richard.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Bankruptcy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="legal_settlement">
+            <pb n="1" facs="tcp:186010:1"/>
+            <head>An Abstract of the Agreement made between <hi>John Backwell</hi> Esq; <hi>and Richard Backwell</hi> Gent. and the Creditors of <hi>Edward Backwell,</hi> their Father, Deceased.</head>
+            <p>BY Articles of Agreement, Dated 12 <hi>November</hi> 1697, made between the said <hi>John</hi> and <hi>Richard Backwell,</hi> of the one part, and Sir <hi>Edmund Turner,</hi> Sir <hi>Willi<g ref="char:EOLhyphen"/>am Hustler,</hi> Knights; <hi>William Melmoth</hi> Esquire, <hi>Wil<g ref="char:EOLhyphen"/>liam Waterson,</hi> and <hi>William Clotterbooke</hi> Gent. and <hi>Jerem. Ta<g ref="char:EOLhyphen"/>verner</hi> Citizen and Vintner of <hi>London,</hi> of the other part: The said <hi>John</hi> and <hi>Richard Backwell,</hi> do Covenant and Agree with the said Sir <hi>Edmund Turner,</hi> Sir <hi>William Hustler, William Mel<g ref="char:EOLhyphen"/>moth, William Waterson, William Clotterbook,</hi> and <hi>Jerem. Taverner,</hi> (being Persons nominated on behalf of themselves and such o<g ref="char:EOLhyphen"/>ther of the Creditors, as shall execute the said Articles) with<g ref="char:EOLhyphen"/>in Six Months after the Commission of Bankrupt awarded a<g ref="char:EOLhyphen"/>gainst the said <hi>Edward Backwell,</hi> shall be superseded, to pay un<g ref="char:EOLhyphen"/>to the said Creditors One and twenty Pounds ten Shillings <hi>per Cent.</hi> in ready Money of each Creditors Principal Debt, and at the Costs and Charges of the said <hi>John</hi> and <hi>Richard Back<g ref="char:EOLhyphen"/>well,</hi> to assign over to the said Creditors respectively, out of the said <hi>Edward Backwell</hi> his Patent, for Perpetual Interest at Six Pounds <hi>per Cent. per Annum,</hi> on the Hereditary Revenue of Excise, the remaining Seventy eight Pounds ten Shillings of their Principal, together with all Interest of their Princi<g ref="char:EOLhyphen"/>pal to the 24th <hi>June</hi> 1682, and Interest for the said One and twenty Pounds ten Shillings, from the said 24th <hi>June</hi> to the time of Payment thereof, at the Rate of Six Pounds <hi>per Cent. per Annum,</hi> the said Seventy eight Pounds ten Shillings and the Interest of the whole Principal; and for the said One and twenty Pound ten Shillings, to carry Interest after the Rate a<g ref="char:EOLhyphen"/>foresaid, from the said 24th <hi>June</hi> 1682: And that so soon as the Commission shall be vacated, they will sell the Estate of the said <hi>Edward Backwell</hi> for the most advantage, and the Moneys arising by Sale thereof (after Payment of Incum<g ref="char:EOLhyphen"/>brances chargeable thereon) shall be directly paid by the re<g ref="char:EOLhyphen"/>spective
+<pb n="2" facs="tcp:186010:2"/>Purchasers, into the hands of <hi>Rich. Snagg, Jos. Moore, Tho. Paine, Cha. Shales</hi> and <hi>Will. Atwill</hi> Goldsmiths, who by some Writing duly executed, should become obliged to the said Sir <hi>Edm. Turner,</hi> Sir <hi>Will. Hustler, Will. Melmoth, Will. Water<g ref="char:EOLhyphen"/>son, William Clotterbook</hi> and <hi>Jerem. Taverner,</hi> in behalf of them<g ref="char:EOLhyphen"/>selves and the rest of the said Creditors, to apply the Moneys which shall so come to their hands, towards payment of the said One and twenty Pounds ten Shillings.</p>
+            <p>
+               <hi>Provided,</hi> If any of the Creditors have received any Divi<g ref="char:EOLhyphen"/>dend upon the Commission of Bankrupt, such Dividend shall be taken as part of the said Twenty one Pounds ten Shillings.</p>
+            <p>The said Sir <hi>Edm. Turner,</hi> Sir <hi>Will. Hustler, Will. Melmoth, Will. Waterson, William Clotterbook,</hi> and <hi>Jer. Taverner,</hi> several<g ref="char:EOLhyphen"/>ly covenant with the said <hi>John</hi> and <hi>Richard Backwell,</hi> to ac<g ref="char:EOLhyphen"/>cept the said One and twenty Pounds ten Shillings <hi>per Cent.</hi> and such Assignments as aforesaid, in satisfaction of their Debts, and upon Receipt thereof and such Assignments made, to deliver up their Bonds and other Securities, or give Legal Discharges.</p>
+            <p>
+               <hi>Provided,</hi> That if the said Commission be not vacated within Seventeen Months from the Date of the said Articles, the said Articles to be void.</p>
+            <p>The Charges of procuring the Commission to be set a<g ref="char:EOLhyphen"/>side, and of all other Matters relating to the making good the said Proposals, to be paid by the said <hi>John</hi> and <hi>Richard Backwell.</hi>
+            </p>
+            <p>All Parties agree to use their utmost endeavours for the speedy vacating the said Commission.</p>
+            <p>By Indenture Tripartite, Dated the 16th. of <hi>March</hi> 1697, made between the said <hi>Rich. Snagg, Jos. Moore, Tho. Paine, Cha. Shales</hi> and <hi>Will. Atwill,</hi> of the first part, the said <hi>John</hi> and <hi>Rich<g ref="char:EOLhyphen"/>ard Backwell</hi> of the second part, and the said Sir <hi>Edmund Turner,</hi> Sir <hi>William Hustler, William Melmoth, William Waterson, William Clottterbook,</hi> and <hi>Jerem. Taverner,</hi> of the third part (reciting the said Articles) the said <hi>Rich. Snagg, Jos. Moore, Tho. Paine, Cha. Shales</hi> and <hi>Will. Atwill,</hi> do severally Covenant with the said Sir <hi>Edm. Turner,</hi> Sir <hi>Will. Hustler, Will. Melmoth, Will. Water<g ref="char:EOLhyphen"/>son, William Clotterbook,</hi> and <hi>Jerem. Taverner,</hi> That all Moneys which shall be paid them by any Purchaser or Purchasers, up<g ref="char:EOLhyphen"/>on Sale of the Estate of the said <hi>Edward Backwell,</hi> shall be ap<g ref="char:EOLhyphen"/>plied towards Payment of the said Twenty one Pounds ten Shillings <hi>per Cent.</hi> to the said Creditors, share and share alike, in equal proportion to their respective Debts, within the time limited, for Payment thereof in the said Agreement:
+<pb n="3" facs="tcp:186010:2"/>And if after Payment of the Moneys then come to their hands, the said One and twenty Pounds ten Shillings <hi>per Cent.</hi> shall not be fully paid, then at the request of the said Sir <hi>Edmund Turner,</hi> Sir <hi>Will. Hustler, Will. Melmoth, Will. VVaterson, VVill. Clotterbook,</hi> and <hi>Jerem. Taverner,</hi> they will apply all such other Moneys as shall be afterwards paid them by any Purchaser aforesaid, towards the further Payment of the said One and twenty Pounds ten Shillings <hi>per Cent.</hi> to the said Creditors in equal Proportion to their respective Debts, as aforesaid. And likewise, that they will deliver to the said Sir <hi>Edmund Turner,</hi> Sir <hi>VVill. Hustler, VVill. Melmoth, VVill. VVaterson, VVill. Clot<g ref="char:EOLhyphen"/>terbook</hi> and <hi>Jer. Taverner</hi> (as often as requested) a Particular in Writing under their hands, of all the Moneys which shall be paid into their hands, and the Persons Names that pay the same.</p>
+            <p>The Moneys to be paid to the said <hi>Rich. Snagg, Jos. Moore, Tho. Paine, Cha. Shales,</hi> and <hi>VVill. Atwill,</hi> to be divided into Four equal parts, One part whereof to be paid to Mr. <hi>Snagg,</hi> One other part to Mr. <hi>Moore</hi> and <hi>Paine,</hi> One other part to Mr. <hi>Shales,</hi> and One other part to Mr. <hi>Atwill,</hi> unless other<g ref="char:EOLhyphen"/>wise agreed between the said <hi>John</hi> and <hi>Richard Backwell</hi> and Sir <hi>Edm. Turner,</hi> Sir <hi>VVill. Hustler, VVill. Melmoth, VVill. VVater<g ref="char:EOLhyphen"/>son, VVill. Clotterbook</hi> and <hi>Jerem. Taverner,</hi> and if either of the Goldsmiths die, his part of the Moneys afterwards raised, to be paid unto, and be equally divided among the Survivors of them, or such other Persons as shall be agreed on as afore<g ref="char:EOLhyphen"/>said, for the uses before-mentioned.</p>
+            <p>
+               <hi>John</hi> and <hi>Richard Backwell</hi> Covenant with the said Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Turner,</hi> Sir <hi>VVill. Hustler, VVill. Melmoth, VVill. VVaterson, VVill. Clotterbooke,</hi> and <hi>Jer. Taverner,</hi> within Six Months to de<g ref="char:EOLhyphen"/>liver a List of the Creditors Names, and the Principal Debts owing to them from their Father, in the Year 1697.</p>
+            <p>And for the further and better securing the Payment of the said One and twenty Pounds ten Shillings to the said Cre<g ref="char:EOLhyphen"/>ditors, The said <hi>John</hi> and <hi>Richard Backwell,</hi> will, at the time of the superseding the said Commission, consent, agree, and submit, to any Order or Decree of the <hi>High Court of Chancery,</hi> for the selling of the Estate of the said <hi>Edward Backwell,</hi> so as the Money arising by such Sale, may be paid into the Hands of the said <hi>Rich. Snagg, Jos. Moore, Tho. Paine, Cha. Shale</hi> and <hi>VVill. Atwill,</hi> for the uses before-mentioned.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
